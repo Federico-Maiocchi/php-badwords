@@ -6,8 +6,8 @@
     <title>BadWords</title>
 </head>
 <body>
-    <h1>Prova</h1>
-    <form action="result.php" method='POST'>
+    <h1>Inserire parola da censurare</h1>
+    <form action="result.php" method="POST">
         <input type="text" name="text_bad">
         <input type="submit" value="Invia">
     </form>
